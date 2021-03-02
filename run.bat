@@ -1,2 +1,2 @@
-dotnet build
-start "" ./LuckyTicket/bin/Debug/netcoreapp3.1/LuckyTicket.exe
+dotnet run
+start "" ./LuckyTicket/bin/Debug/net5.0/LuckyTicket.exe
